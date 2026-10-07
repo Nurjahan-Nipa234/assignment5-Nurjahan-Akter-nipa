@@ -5,8 +5,8 @@ Basics of programming assignment 5
 
 Fill here:
 
-- Name
-- Group
+- Name: Nurjahan Akter Nipa
+- Group: B
 
 ## Description of the project
 
